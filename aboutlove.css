@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    overflow:inherit;
+    background-color: #FCDED4;
+    font-style:normal;
+}
+
+
+header{
+    font-size: 40px;
+    text-align: center;
+    color: #4A5951;
+    margin: auto;
+    width: auto;
+    
+}
+h{
+    font-size: 25px;
+    height: 40px;
+    color: darkgray;
+}
+
+h1,h2,h3{
+    font-size: 20px;
+}
+
+
+.container{
+    color: darkslategray;
+    float: left; 
+    line-height: 40px;
+    letter-spacing:8px;
+    padding:5px ;
+    border: 5px solid #E8DCD0;
+    margin: 5px ;
+}
+
+div{
+    text-align: center;
+}
