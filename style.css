@@ -19,10 +19,12 @@ h2{
 }
 
 .container,.junbotron{
-    font-family:wcl-07;
-    font-weight: 700;
     padding-top: 10px;
     border-color:#4A5951;
+}
+.container,.junbotron,.thumbnail{
+    font-family:"wcl-07";
+    font-weight: 700;
 }
 
 .thumbnail{
